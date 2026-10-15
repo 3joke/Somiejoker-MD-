@@ -17,7 +17,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 <div align="center">
   <img src="https://img.shields.io/github/followers/3joke?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/3,joke/Somiejokerbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/forks/3joke/Somiejoker-MD?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/3joke/Somiejokerbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
@@ -64,7 +64,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+  <a href="https://Somiejoker-bot-paircode.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
@@ -108,7 +108,7 @@ For further customization and setup guidance, click the button below:
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO3A">
+  <a href="https://whatsapp.com/channel/0029Va90zAHphOuO3A">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
