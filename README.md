@@ -148,7 +148,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/3joke/Somiejokerbot-MD.git
-    cd Knightbot-MD
+    cd Somiejokerbot-MD
     ```
 
 2. **Install the dependencies:**
