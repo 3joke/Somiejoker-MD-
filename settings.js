@@ -1,23 +1,23 @@
 require('dotenv').config();
 
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'Somiejoker Bot',
   author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Somiejoker Bot",
+  botOwner: 'MARTO', // Your name
+  ownerNumber: '254794745885', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "3.0.8",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  updateZipUrl: "https://github.com/3joke/somiejokerbot-MD/archive/refs/heads/main.zip",
   // Media / Knight API (song, video, cards, etc.)
-  knightApiUrl: process.env.KNIGHT_API_URL || 'https://knightbotapi.stream',
-  knightApiKey: process.env.KNIGHT_API_KEY || 'knight',
-  mediaApiUrl: process.env.MEDIA_API_URL || 'https://knightbotapi.stream',
-  mediaApiKey: process.env.MEDIA_API_KEY || 'knight',
+  somiejokerApiUrl: process.env.KNIGHT_API_URL || 'https:/somiejokerbotapi.stream',
+  somiejokerApiKey: process.env.KNIGHT_API_KEY || 'somie',
+  mediaApiUrl: process.env.MEDIA_API_URL || 'https://somiejokertbotapi.stream',
+  mediaApiKey: process.env.MEDIA_API_KEY || 'somie',
   princeApiUrl: process.env.PRINCE_API_URL || 'https://api.princetechn.com',
   princeApiKey: process.env.PRINCE_API_KEY || 'prince',
 };
