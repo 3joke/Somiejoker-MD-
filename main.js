@@ -153,8 +153,8 @@ const soraCommand = require('./commands/sora');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
-global.ytch = "Mr Unique Hacker";
+global.channelLink = "https://whatsapp.com/channel/00a90zAnIHphOuO8Msp3A";
+global.ytch = "SOMIEJOKER";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
@@ -163,7 +163,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterName: 'SomiejokerBot MD',
             serverMessageId: -1
         }
     }
